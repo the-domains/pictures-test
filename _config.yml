@@ -2,6 +2,7 @@ name: Pictures Test
 favicon: null
 layout_spectrum: 0.38879
 typography_spectrum: 0.86459
+title: 'Fireworks!'
 cta:
   domain: null
   bucket: null
