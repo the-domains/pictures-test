@@ -1,6 +1,6 @@
 name: Pictures Test
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.51054
 typography_spectrum: 0.86459
 title: 'Fireworks!'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4c2d49'
     - '#a4606e'
     - '#d8caee'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
